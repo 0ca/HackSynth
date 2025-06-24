@@ -48,5 +48,7 @@ If you use this code in your work or research, please cite the corresponding pap
 - David Imolai (david@imol.ai)
 - András Lukács (andras.lukacs@ttk.elte.hu)
 
+> 🔍 Also see our related project on reinforcement learning for cryptographic CTFs: [HackSynth-GRPO](https://github.com/aielte-research/HackSynth-GRPO)
+
 ## License
 The project uses the GNU AGPLv3 license.
