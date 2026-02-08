@@ -36,7 +36,7 @@ The integration follows a similar pattern to Claude Code:
 ### Basic Command
 
 ```bash
-boxpwnr --platform htb --target Meow --strategy hacksynth --model gpt-4o
+boxpwnr --platform htb --target Meow --strategy hacksynth --model gpt-5
 ```
 
 ### With Custom Parameters
@@ -46,7 +46,7 @@ boxpwnr \
   --platform htb \
   --target Meow \
   --strategy hacksynth \
-  --model gpt-4o \
+  --model gpt-5 \
   --max-turns 30 \
   --max-cost 5.0 \
   --debug
@@ -55,7 +55,7 @@ boxpwnr \
 ### Supported Models
 
 HackSynth supports:
-- **OpenAI Models**: `gpt-4o`, `gpt-4o-mini`, `gpt-3.5-turbo`, `o1`, `o1-mini`
+- **OpenAI Models**: `gpt-5`, `gpt-5-mini`
 - **Local Models**: Any HuggingFace model (requires `llm_model_local=true`)
 
 ## How It Works

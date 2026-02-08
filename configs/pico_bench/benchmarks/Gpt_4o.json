@@ -4,7 +4,7 @@
         "name": "PicoCTF benchmark"
     },
     "llm": {
-        "model_id": "gpt-4o",
+        "model_id": "gpt-5",
         "model_local": false,
         "temperature": 1.0,
         "top_p": 0.9,

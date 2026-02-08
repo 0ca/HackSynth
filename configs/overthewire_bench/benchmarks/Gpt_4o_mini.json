@@ -4,7 +4,7 @@
         "name": "OverTheWire Benchmark"
     },
     "llm": {
-        "model_id": "gpt-4o-mini",
+        "model_id": "gpt-5-mini",
         "model_local": false,
         "temperature": 1,
         "top_p": 0.9,
